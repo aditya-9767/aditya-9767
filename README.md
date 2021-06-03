@@ -1,0 +1,5 @@
+- 👋 Hi, I'am Aditya 
+- 👀 My interest area is Python and its difeerent frameworks
+- 🌱 I’m currently learning Machine Learning and AI
+- 💞️ I’m looking to collaborate on multiple python projects
+- 📫 contact me on - adityapawar9767@gmail.com
